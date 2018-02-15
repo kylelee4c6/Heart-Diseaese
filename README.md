@@ -1,5 +1,5 @@
 # Heart-Diseaese
-Predict the presence of heart disease using several machine learning algorithms such as k-Nearest Neighbors, Logistic Regression, etc..
+Predict the presence of heart disease using several machine learning algorithms such as k-Nearest Neighbors, Logistic Regression, etc.
 
 ## Getting Started
 These instructions will get you to preview a copy of my project up and running on your local machine.
