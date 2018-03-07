@@ -1,6 +1,9 @@
 # Heart-Diseaese
 Predict the presence of heart disease using several machine learning algorithms such as k-Nearest Neighbors, Logistic Regression, etc.
 
+# Credit Fraud Detection
+Predict which payment histories indicate that it is a fraud or not. I use several machine learning algorithms as well as consider unbalanced sets. This is currently in progress.
+
 ## Getting Started
 These instructions will get you to preview a copy of my project up and running on your local machine.
 
